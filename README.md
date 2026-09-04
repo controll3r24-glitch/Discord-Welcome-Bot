@@ -1,5 +1,5 @@
-"""
-bot.py
+
+# bot.py
 ------
 Bot Discord che invia un'immagine di benvenuto personalizzata quando
 un nuovo utente entra nel server.
@@ -12,4 +12,3 @@ AVVIO:
 
 Tutte le impostazioni (token, canale, testi, colori, immagine di sfondo)
 si modificano qui sotto, nella sezione CONFIGURAZIONE.
-"""
